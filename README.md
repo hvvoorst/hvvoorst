@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Han. I am currently employed as researcher at Gouda Refractories
+- 👋 Hi, I’m Han. I am currently employed as researcher in the area of refractory concrete
 - 👀 I’m interested in data science with R and am committed to improve my R skill to professional levels in the coming months.
 - 📫 I am reachable on my email hanvanvoorst@gmail.com
 
